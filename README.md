@@ -44,7 +44,7 @@
 ### 🛠️ skills & tools
 
 **Languages:**  
-Python · JavaScript · Swift · C# · SQL · HTML/CSS  
+Python · C++ · JavaScript · Swift · C# · SQL · HTML/CSS  
 
 **Frameworks:**  
 Firebase · REST API · Netlify · Xcode  
